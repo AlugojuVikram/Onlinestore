@@ -1,0 +1,14 @@
+a{
+  text-decoration: none;
+  color:white;
+}
+
+body{
+  background-image: url(./assets/shopping-cart-with-wooden-elements_23-2148879396.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+img:hover{
+  transform: scale(1.1);
+}
